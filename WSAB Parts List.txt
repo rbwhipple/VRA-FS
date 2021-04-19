@@ -1,0 +1,50 @@
+WSAB - Version 4.0 Parts List
+
+C1	10uf 25vdc	Jameco 94060
+C2	10uf 25vdc	Jameco 94060
+C3	.01uf	Jameco 15229
+C4	.01uf	Jameco 15229
+C5	47uf	Jameco 135319
+C6	47uf	Jameco135319
+C7	10uF 25vdc	Jameco 94060
+C8	.047uf	Jameco 15253
+C9	.047uf	Jameco 15253
+C10	.0047uf	Jameco 15211
+C11	.01uf	Jameco 15229
+C12	.01uf	Jameco 15229
+C13	.01uf	Jameco 15229
+C14	4.7uf 25vdc	Jameco 546071
+C15	4.7uf 25vdc	Jameco 546071
+C16	4.7uf 25vdc	Jameco 546071
+C17	4.7uf 25vdc	Jameco 546071
+DIPSW1		Jameco 696950
+DSP1	TFT Display	Amazon DSD TECH 1.8 Inch TFT
+FS1	AD9850 Module	Amazon HiLetgo DDS AD9850
+J1	RCA Phono Jack	Mouser 806-KLPX-0848-2-W
+J2	RCA Phono Jack	Mouser 806-KLPX-0848-2-W
+J3	DC Jack	Jameco 2210677
+MP1	Arduino Pro Mini	
+Q1	2N3904	Jameco 38359
+R1	47k	Jameco 691260
+R2	22k	Jameco 691180
+R3	1k	Jameco 690865
+R4	1k	Jameco 690865
+R5	2k	Jameco 690937
+R6	3.9k	Jameco 691008
+R7	8.2k	Jameco 691083
+R8	1k Linear Pot	Jameco 2271663
+R9	1M Linear Pot	Jameco 2271679
+R10	100k	Jameco 691340
+R11	100k	Jameco 691340
+R12	15k	Mouser 660-MF1/4CCT52R1502F
+R13	16.9k	Mouser 660-MF1/4CC1692F
+R14	50K Linear Pot	Jameco 853791
+R15	47k	691260
+REN1	Rotary Encoder	Amazon Cylewet KY-040
+REN2	Rotary Encoder	Amazon Cylewet KY-040
+SW1	DPDT Slide Switch	Jameco 161817
+SW2	PB Switch	Jameco 149948
+SW3	PB Switch	Jameco 149948
+U1	LM7805CV	Jameco 51262
+U2	TLE2021	Mouser 595-TLE2021CPE4
+U3	MAX680	Mouser 700-MAX680CPA
