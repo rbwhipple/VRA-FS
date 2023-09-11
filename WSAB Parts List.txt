@@ -18,12 +18,12 @@ C15	4.7uf 25vdc	Jameco 546071
 C16	4.7uf 25vdc	Jameco 546071
 C17	4.7uf 25vdc	Jameco 546071
 DIPSW1		Jameco 696950
-DSP1	TFT Display	Amazon DSD TECH 1.8 Inch TFT
+DSP1	TFT Display	Adafruit product ID 358
 FS1	AD9850 Module	Amazon HiLetgo DDS AD9850
 J1	RCA Phono Jack	Mouser 806-KLPX-0848-2-W
 J2	RCA Phono Jack	Mouser 806-KLPX-0848-2-W
 J3	DC Jack	Jameco 2210677
-MP1	Arduino Pro Mini	
+MP1	Arduino Pro Mini Amazon Hiletgo 5V	
 Q1	2N3904	Jameco 38359
 R1	47k	Jameco 691260
 R2	22k	Jameco 691180
