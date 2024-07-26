@@ -1,6 +1,6 @@
 # VRA-FS
 Software and documentation to go along with the Amazon books "Vintage Radio Alignment - From Scratch" and "FM Tube Radios - From Scratch".
-The following are for the original WSAB design Ver. 1.0. The display used is in Ver. 1 is no longer available. Please see the new release Ver 4.1 for files using a new display.
+The following are for the original WSAB design Ver. 1.0. The display used is in Ver. 1 is no longer available. Please see the new release Ver 4.1 for files using a new display. PCBs for WSAB Version 4.1 on eBay - Search for "WSAB".
 
 Version 1.0
 
